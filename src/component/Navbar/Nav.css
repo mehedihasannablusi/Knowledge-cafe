@@ -1,0 +1,12 @@
+.header-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: lightblue;
+    margin: 5px;
+    border-radius: 5px;
+}
+.heder-img{
+    border-radius: 50px;
+}
